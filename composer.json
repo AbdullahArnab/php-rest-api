@@ -1,0 +1,15 @@
+{
+    "name": "arnab/php-rest-api",
+    "autoload": {
+        "psr-4": {
+            "app\\": "./"
+        }
+    },
+    "authors": [
+        {
+            "name": "Abdullah Al Shakib Arnab",
+            "email": "abdullah.arnab@gmail.com"
+        }
+    ],
+    "require": {}
+}
